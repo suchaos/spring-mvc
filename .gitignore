@@ -1,7 +1,4 @@
 # Project exclude paths
-/version01/target/
-/version02/target/
-/version03/target/
-/version04/target/
+/**/target/
 /.idea
 /**/*.iml

@@ -11,6 +11,7 @@
         <module>version02</module>
         <module>version03</module>
         <module>version04</module>
+        <module>version05-springbootrest</module>
     </modules>
     <name>spring-mvc</name>
     <description>Spring MVC</description>
