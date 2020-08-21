@@ -12,6 +12,7 @@
         <module>version03</module>
         <module>version04</module>
         <module>version05-springbootrest</module>
+        <module>for-learn-spring-servlet</module>
     </modules>
     <name>spring-mvc</name>
     <description>Spring MVC</description>
@@ -40,11 +41,6 @@
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>jstl</artifactId>
         </dependency>
     </dependencies>
 
